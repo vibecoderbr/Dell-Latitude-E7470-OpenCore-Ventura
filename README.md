@@ -45,18 +45,18 @@
 | WiFi | ✅ Working | Native · BCM94360NG |
 | Bluetooth | ✅ Working | [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM) |
 | Shutdown / Reboot / Sleep / Wake | ✅ Working | SSDT-E7470 · GPRW patch |
-| Speakers and headphone jack | ✅ Working | [AppleALC](https://github.com/acidanthera/AppleALC) · layout-id `11` · [VerbStub](https://github.com/hackintosh-stuff/ComboJack) |
+| Speakers and headphone jack | ✅ Working | [AppleALC](https://github.com/acidanthera/AppleALC) · layout-id `11`<br>[VerbStub](https://github.com/hackintosh-stuff/ComboJack) |
 | Intel Gigabit Ethernet | ✅ Working | [IntelMausi](https://github.com/acidanthera/IntelMausi) |
 | iCloud Services | ✅ Working | Requires unique SMBIOS |
 | Continuity<br>&nbsp;• *Handoff*<br>&nbsp;• *Universal Clipboard*<br>&nbsp;• *Sidecar*<br>&nbsp;• *Universal Control*<br>&nbsp;• *Continuity Camera*<br>&nbsp;• *Instant Hotspot*<br>&nbsp;• *iPhone Cellular Calls / SMS* | ✅ Working | Native · BCM94360NG |
 | AirDrop | ✅ Working | Native · BCM94360NG |
 | AirPlay | ✅ Working | Native · BCM94360NG |
 | miniDP and HDMI with digital audio passthrough | ✅ Working | [WhateverGreen](https://github.com/acidanthera/WhateverGreen) |
-| Keyboard + backlight | ✅ Working | [VoodooPS2](https://github.com/SkyrilHD/VoodooPS2) · [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys) |
+| Keyboard + backlight | ✅ Working | [VoodooPS2](https://github.com/SkyrilHD/VoodooPS2)<br>[BrightnessKeys](https://github.com/acidanthera/BrightnessKeys) |
 | Trackpad with multitouch gestures | ✅ Working | [VoodooPS2](https://github.com/SkyrilHD/VoodooPS2) |
-| SD Card Reader | ✅ Working | [RealtekCardReader](https://github.com/0xFireWolf/RealtekCardReader) · [RealtekCardReaderFriend](https://github.com/0xFireWolf/RealtekCardReaderFriend) |
+| SD Card Reader | ✅ Working | [RealtekCardReader](https://github.com/0xFireWolf/RealtekCardReader)<br>[RealtekCardReaderFriend](https://github.com/0xFireWolf/RealtekCardReaderFriend) |
 | Battery status | ✅ Working | [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC) |
-| CPU / thermal sensors | ✅ Working | [SMCProcessor](https://github.com/acidanthera/VirtualSMC) · [SMCDellSensors](https://github.com/acidanthera/VirtualSMC) |
+| CPU / thermal sensors | ✅ Working | [SMCProcessor](https://github.com/acidanthera/VirtualSMC)<br>[SMCDellSensors](https://github.com/acidanthera/VirtualSMC) |
 | Touchscreen | ⚠️ Not tested / ❌ Not supported | — |
 | Fingerprint Reader | ⚠️ Not tested / ❌ Not supported | — |
 | Smart Card | ⚠️ Not tested / ❌ Not supported | — |
