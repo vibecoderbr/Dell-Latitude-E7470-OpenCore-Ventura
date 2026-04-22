@@ -48,7 +48,7 @@
 | Speakers and headphone jack | Working | [AppleALC](https://github.com/acidanthera/AppleALC) · layout-id `11`<br>[VerbStub](https://github.com/hackintosh-stuff/ComboJack) |
 | Intel Gigabit Ethernet | Working | [IntelMausi](https://github.com/acidanthera/IntelMausi) |
 | iCloud Services | Working | Requires unique SMBIOS |
-| Continuity<br>&nbsp;• *Handoff*<br>&nbsp;• *Universal Clipboard*<br>&nbsp;• *Sidecar*<br>&nbsp;• *Universal Control*<br>&nbsp;• *Continuity Camera*<br>&nbsp;• *Instant Hotspot*<br>&nbsp;• *iPhone Cellular Calls / SMS* | ✅ Working | Native · BCM94360NG |
+| Continuity<br>&nbsp;• *Handoff*<br>&nbsp;• *Universal Clipboard*<br>&nbsp;• *Sidecar*<br>&nbsp;• *Universal Control*<br>&nbsp;• *Continuity Camera*<br>&nbsp;• *Instant Hotspot*<br>&nbsp;• *iPhone Cellular Calls / SMS* | Working | Native · BCM94360NG |
 | AirDrop | Working | Native · BCM94360NG |
 | AirPlay | Working | Native · BCM94360NG |
 | miniDP and HDMI with digital audio passthrough | Working | [WhateverGreen](https://github.com/acidanthera/WhateverGreen) |
